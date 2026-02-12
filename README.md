@@ -9,6 +9,7 @@
 - Emotional Blackmail
 - Gimmick
 - Fake it till you Make it
+- Character Assassination
 - Professional Playing Victim
 - "It's Not Our Fault"
 - Maling Teriak Maling
