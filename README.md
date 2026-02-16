@@ -30,6 +30,7 @@
 - Selfish/Egois/Narcissist
 - Dunning Kruger Effect
 - Pura-pura this & Pura-pura that
+- Provokes
 - Bandwagon Effect
 - Virtue Signaling
 - Double Standard
