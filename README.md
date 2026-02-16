@@ -40,6 +40,12 @@
 - Intentional out of context information
 - Tone Policing
 
+## A set of words that can be used to explain something (e.g what is problem)
+1. a situation where
+2. a condition where
+3. a circumstance where
+
+
 ## There's 2 kind of people related to how DEI works : Stupid People & Not Stupid People (not always smart)
 for not stupid people, here's how it works.
 1. They depend on a Problem that they created themselves & They begin to fearmongering people with the buzzwords like nazi, racist, etc
