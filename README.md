@@ -35,13 +35,15 @@
 - Virtue Signaling
 - Double Standard
 - Luxury Belief
-- This Guilt & That Guilt
 - Echo Chamber
+- Privilege
+- Out of Touch
+- This Guilt & That Guilt
 - Kepentingan Agenda/Propaganda
 - Intentional out of context information
 - Tone Policing
 
-## A set of words that can be used to explain something (e.g what is problem)
+## A set of words that can be used to explain something (e.g., what is problem)
 1. a situation where
 2. a condition where
 3. a circumstance where
