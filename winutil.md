@@ -6,13 +6,13 @@ Daripada menjalankan langsung `irm | iex`, lebih aman **download script terlebih
 
 ## 1️⃣ Download Script WinUtil
 
-Buka **PowerShell 7** sebagai Administrator, lalu jalankan:
+Buka **PowerShell 7** (Run as Administrator), Masuk ke folder C:\Windows\System32 (bypass the Constrained Language Mode), lalu jalankan:
 
 ```powershell
 Invoke-WebRequest https://christitus.com/win -OutFile winutil.ps1
 ```
 
-Script akan tersimpan di folder saat ini (misal `Downloads`).
+File akan tersimpan di folder yang dipilih (misal `System32`).
 
 ---
 
@@ -50,7 +50,7 @@ WinUtil akan terbuka, siap digunakan.
 
 ## 🟢 STEP 2 — Masuk ke Folder Tempat Simpan
 
-Contoh kita simpan di **Downloads**:
+Contoh kita simpan di **System32** (bypass the Constrained Language Mode):
 
 ```powershell
 cd $env:USERPROFILE\Downloads
@@ -112,7 +112,7 @@ Kalau ingin membuka lagi tanpa download ulang:
 2. Masuk folder tempat file disimpan:
 
 ```powershell
-cd $env:USERPROFILE\Downloads
+cd C:\Windows\System32
 ```
 
 3. Jalankan:
@@ -130,12 +130,13 @@ cd $env:USERPROFILE\Downloads
 Gunakan 1 baris ini untuk **update + unblock + buka sekaligus**:
 
 ```powershell
-cd $env:USERPROFILE\Downloads; Invoke-WebRequest https://christitus.com/win -OutFile winutil.ps1; Unblock-File .\winutil.ps1; .\winutil.ps1
+cd C:\Windows\System32; Invoke-WebRequest https://christitus.com/win -OutFile winutil.ps1; Unblock-File .\winutil.ps1; .\winutil.ps1
 ```
 
 ### Penjelasan:
 
 1. Masuk ke folder tempat WinUtil disimpan
-2. Download versi terbaru (menimpa versi lama)
+2. Download versi terbaru (atau menimpa versi lama)
 3. Unblock file agar tidak diblokir Windows
 4. Jalankan WinUtil langsung
+
