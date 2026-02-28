@@ -82,30 +82,3 @@ cd $env:USERPROFILE\Downloads
 ```
 
 ✅ WinUtil akan terbuka lagi.
-
----
-
-# 🟢 STEP 9 — Update WinUtil ke Versi Terbaru (1 Baris Super Singkat)
-
-Sekarang gunakan **1 baris** ini untuk update + unblock + buka sekaligus:
-
-```powershell
-cd $env:USERPROFILE\Downloads; Invoke-WebRequest https://christitus.com/win -OutFile winutil.ps1 -UseBasicParsing; Unblock-File .\winutil.ps1; .\winutil.ps1
-```
-
-**Penjelasan singkat:**
-
-1. `cd $env:USERPROFILE\Downloads` → masuk folder tempat WinUtil disimpan
-2. `Invoke-WebRequest ...` → download versi terbaru
-3. `Unblock-File` → pastikan Windows tidak memblokir
-4. `.\winutil.ps1` → menjalankan WinUtil langsung
-
-> Cocok untuk sistem **ConstrainedLanguage** dan PowerShell 7.
-
----
-
-# 💡 Tips
-
-* Selalu pastikan **link resmi**: `https://christitus.com/win`
-* Jalankan **PowerShell 7 sebagai Administrator**
-* Bisa buka isi file dulu dengan `notepad .\winutil.ps1` untuk cek isi script jika mau
