@@ -1,0 +1,124 @@
+# [🔐 Cara Aman Install WinUtil (Direkomendasikan)](https://chatgpt.com/s/t_69a33c284c848191bf0ac1e2bf51f548)
+
+Daripada menjalankan langsung `irm | iex`, lebih aman **download script terlebih dahulu** lalu jalankan dari file lokal.
+
+---
+
+## 1️⃣ Download Script WinUtil
+
+Buka **PowerShell 7** sebagai Administrator, lalu jalankan:
+
+```powershell
+Invoke-WebRequest https://christitus.com/win -OutFile winutil.ps1
+```
+
+Script akan tersimpan di folder saat ini (misal `Downloads`).
+
+---
+
+## 2️⃣ (Opsional) Cek Isi Script
+
+Sebelum menjalankan, disarankan untuk melihat isi script supaya tahu tweak apa yang dijalankan:
+
+```powershell
+notepad .\winutil.ps1
+```
+
+> Ini langkah keamanan: memastikan script dari sumber resmi dan tidak mengandung hal berbahaya.
+
+---
+
+## 3️⃣ Jalankan WinUtil
+
+Setelah dicek, jalankan script lokal:
+
+```powershell
+.\winutil.ps1
+```
+
+WinUtil akan terbuka, siap digunakan.
+
+# [Full Guide winutil](https://chatgpt.com/s/t_69a302801fc88191ade42324c516478b)
+
+## 🟢 STEP 1 — Buka PowerShell 7
+
+1. Klik **Start**
+2. Ketik **PowerShell 7**
+3. Klik kanan → **Run as Administrator**
+
+---
+
+## 🟢 STEP 2 — Masuk ke Folder Tempat Simpan
+
+Contoh kita simpan di **Downloads**:
+
+```powershell
+cd $env:USERPROFILE\Downloads
+```
+
+> Ganti path sesuai foldermu.
+
+---
+
+## 🟢 STEP 3 — Download / Install WinUtil Pertama Kali
+
+```powershell
+Invoke-WebRequest https://christitus.com/win -OutFile winutil.ps1
+```
+
+✅ Akan membuat file `winutil.ps1` baru atau menimpa versi lama.
+
+---
+
+## 🟢 STEP 4 — (Opsional) Buka Isi WinUtil Sebelum Dijalankan
+
+```powershell
+notepad .\winutil.ps1
+```
+
+> Opsional tapi disarankan untuk memastikan tweak yang akan dijalankan aman.
+
+---
+
+## 🟢 STEP 5 — Unblock File
+
+```powershell
+Unblock-File .\winutil.ps1
+```
+
+---
+
+## 🟢 STEP 6 — Jalankan WinUtil
+
+```powershell
+.\winutil.ps1
+```
+
+✅ WinUtil akan terbuka.
+
+---
+
+## 🟢 STEP 7 — Menutup WinUtil
+
+* Tutup WinUtil seperti aplikasi biasa setelah selesai tweak.
+
+---
+
+## 🟢 STEP 8 — Membuka Ulang WinUtil
+
+Kalau ingin membuka lagi tanpa download ulang:
+
+1. Buka PowerShell 7 (Admin)
+2. Masuk folder tempat file `winutil.ps1` disimpan:
+
+```powershell
+cd $env:USERPROFILE\Downloads
+```
+
+3. Jalankan:
+
+```powershell
+.\winutil.ps1
+```
+
+✅ WinUtil akan terbuka lagi.
