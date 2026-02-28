@@ -38,7 +38,7 @@ Setelah dicek, jalankan script lokal:
 
 WinUtil akan terbuka, siap digunakan.
 
-# [Full Guide winutil](https://chatgpt.com/s/t_69a302801fc88191ade42324c516478b)
+# [Full Guide](https://chatgpt.com/s/t_69a33f11de348191ab91bf222a3e2993)
 
 ## 🟢 STEP 1 — Buka PowerShell 7
 
@@ -56,7 +56,7 @@ Contoh kita simpan di **Downloads**:
 cd $env:USERPROFILE\Downloads
 ```
 
-> Ganti path sesuai foldermu.
+> Ganti path sesuai foldermu jika berbeda.
 
 ---
 
@@ -66,7 +66,7 @@ cd $env:USERPROFILE\Downloads
 Invoke-WebRequest https://christitus.com/win -OutFile winutil.ps1
 ```
 
-✅ Akan membuat file `winutil.ps1` baru atau menimpa versi lama.
+✅ Akan membuat file `winutil.ps1` baru atau menimpa versi lama jika sudah ada.
 
 ---
 
@@ -76,7 +76,7 @@ Invoke-WebRequest https://christitus.com/win -OutFile winutil.ps1
 notepad .\winutil.ps1
 ```
 
-> Opsional tapi disarankan untuk memastikan tweak yang akan dijalankan aman.
+> Langkah ini opsional tapi disarankan untuk memastikan script yang akan dijalankan berasal dari sumber resmi.
 
 ---
 
@@ -100,7 +100,7 @@ Unblock-File .\winutil.ps1
 
 ## 🟢 STEP 7 — Menutup WinUtil
 
-* Tutup WinUtil seperti aplikasi biasa setelah selesai tweak.
+Tutup WinUtil seperti aplikasi biasa setelah selesai melakukan tweak.
 
 ---
 
@@ -109,7 +109,7 @@ Unblock-File .\winutil.ps1
 Kalau ingin membuka lagi tanpa download ulang:
 
 1. Buka PowerShell 7 (Admin)
-2. Masuk folder tempat file `winutil.ps1` disimpan:
+2. Masuk folder tempat file disimpan:
 
 ```powershell
 cd $env:USERPROFILE\Downloads
@@ -121,4 +121,21 @@ cd $env:USERPROFILE\Downloads
 .\winutil.ps1
 ```
 
-✅ WinUtil akan terbuka lagi.
+✅ WinUtil akan terbuka kembali.
+
+---
+
+## 🟢 STEP 9 — Update WinUtil ke Versi Terbaru (1 Baris Super Singkat)
+
+Gunakan 1 baris ini untuk **update + unblock + buka sekaligus**:
+
+```powershell
+cd $env:USERPROFILE\Downloads; Invoke-WebRequest https://christitus.com/win -OutFile winutil.ps1; Unblock-File .\winutil.ps1; .\winutil.ps1
+```
+
+### Penjelasan:
+
+1. Masuk ke folder tempat WinUtil disimpan
+2. Download versi terbaru (menimpa versi lama)
+3. Unblock file agar tidak diblokir Windows
+4. Jalankan WinUtil langsung
