@@ -53,7 +53,7 @@ WinUtil akan terbuka, siap digunakan.
 Contoh kita simpan di **System32** (bypass the Constrained Language Mode):
 
 ```powershell
-cd $env:USERPROFILE\Downloads
+cd C:\Windows\System32
 ```
 
 > Ganti path sesuai foldermu jika berbeda.
@@ -139,4 +139,5 @@ cd C:\Windows\System32; Invoke-WebRequest https://christitus.com/win -OutFile wi
 2. Download versi terbaru (atau menimpa versi lama)
 3. Unblock file agar tidak diblokir Windows
 4. Jalankan WinUtil langsung
+
 
