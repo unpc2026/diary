@@ -23,7 +23,7 @@ cd $env:USERPROFILE\Downloads
 # 🟢 STEP 3 — Download / Install WinUtil Pertama Kali
 
 ```powershell
-Invoke-WebRequest https://christitus.com/win -OutFile winutil.ps1 -UseBasicParsing
+Invoke-WebRequest https://christitus.com/win -OutFile winutil.ps1
 ```
 
 ✅ Akan membuat file `winutil.ps1` baru atau menimpa versi lama.
@@ -82,3 +82,4 @@ cd $env:USERPROFILE\Downloads
 ```
 
 ✅ WinUtil akan terbuka lagi.
+
