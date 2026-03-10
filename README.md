@@ -1,4 +1,4 @@
-## IDGAF
+# IDGAF
 - Fearmongering
 - Warmongering
 - Racebait
@@ -43,11 +43,16 @@
 - Intentional out of context information
 - Tone Policing
 
+# IGAF
+- Never interrupt your enemy when he is making a mistake
+- Act like a fool
+- Being pragmatic
+- Don't overshare
+
 ## A set of words that can be used to explain something (e.g., what is problem)
 1. a situation where
 2. a condition where
 3. a circumstance where
-
 
 ## There's 2 kind of people related to how DEI works : Stupid People & Not Stupid People (not always smart)
 for not stupid people, here's how it works.
@@ -72,8 +77,7 @@ for not stupid people, here's how it works.
 
 - Kemungkinan pihak Salah & Liverpool sama-sama salah
 
-
-## Online Radio
+# Online Radio
 - https://onlineradiobox.com/id/oo/?cs=id.oo&played=1
 - https://onlineradiobox.com/id/abesjamztoears/?cs=id.abesjamztoears&played=1
 - https://onlineradiobox.com/uk/capitalfmuk/?cs=uk.capitalfmuk&played=1
