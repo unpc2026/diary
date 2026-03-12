@@ -44,6 +44,7 @@
 - Tone Policing
 
 # IGAF
+- Stop stressing. Take a deep breath, relax, and everything will be fine.
 - Never interrupt your enemy when he is making a mistake
 - Act like a fool
 - Being pragmatic
