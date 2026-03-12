@@ -44,7 +44,8 @@
 - Tone Policing
 
 # IGAF
-- Stop stressing. Take a deep breath, relax, let go of all your burdens and pressures, ignore everything, and everything will be fine.
+- Stop stressing. Take a deep breath, relax, let go of all your burdens and pressures, ignore everything, and everything will be fine
+- Don’t take criticism from someone you wouldn’t take advice from
 - Never interrupt your enemy when he is making a mistake
 - Act like a fool
 - Being pragmatic
