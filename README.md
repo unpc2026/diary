@@ -81,12 +81,34 @@ for not stupid people, here's how it works.
 
 # Online Radio
 - https://onlineradiobox.com/us/worldhits/?cs=us.worldhits&played=1
+- https://onlineradiobox.com/id/ninetysixsmoothsong/?cs=id.ninetysixsmoothsong&played=1
 - https://onlineradiobox.com/id/abesjamztoears/?cs=id.abesjamztoears&played=1
+- https://onlineradiobox.com/ch/1fmamericastop40ballads/?cs=ch.1fmamericastop40ballads&played=1
+- https://onlineradiobox.com/at/kronehitgreatesthits/?cs=at.kronehitgreatesthits&played=1
+- https://onlineradiobox.com/nl/skyrarunnin/?cs=nl.skyrarunnin&played=1
+- https://onlineradiobox.com/nl/skyral90/?cs=nl.skyral90&played=1
+- https://onlineradiobox.com/nl/skyradio/?cs=nl.skyradio&played=1
+- https://onlineradiobox.com/fr/nrjatwork/?cs=fr.nrjatwork&played=1
+- https://onlineradiobox.com/id/juanbatam/?cs=id.juanbatam&played=1
 - https://onlineradiobox.com/id/endlessforbeacon100/?cs=id.endlessforbeacon100&played=1
+- https://onlineradiobox.com/id/infinitebeacon/?cs=id.infinitebeacon&played=1
+- https://onlineradiobox.com/de/silver/?cs=de.silver&played=1
+- https://onlineradiobox.com/de/oberberg/?cs=de.oberberg&played=1
+- https://onlineradiobox.com/at/kronehitnumberone/?cs=at.kronehitnumberone&played=1
+- https://onlineradiobox.com/uk/likebirmingham/?cs=uk.likebirmingham&played=1
+- https://onlineradiobox.com/uk/heart10s/?cs=uk.heart10s&played=1
+- https://onlineradiobox.com/fr/cheriezen/?cs=fr.cheriezen&played=1
+- https://onlineradiobox.com/fr/nrjlatinohits/?cs=fr.nrjlatinohits&played=1
+- https://onlineradiobox.com/de/dexiron/?cs=de.dexiron&played=1
+- https://onlineradiobox.com/fr/nrjdavguetta/?cs=fr.nrjdavguetta&played=1
+- https://onlineradiobox.com/at/kronehitedm/?cs=at.kronehitedm&played=1
 - https://onlineradiobox.com/ca/punkworld/?cs=ca.punkworld&played=1
-- https://onlineradiobox.com/ae/sportifyrock/?cs=ae.sportifyrock&played=1  
+- https://onlineradiobox.com/ae/sportifyrock/?cs=ae.sportifyrock&played=1
 - https://onlineradiobox.com/de/bobcollegerock/?cs=de.bobcollegerock&played=1
+- https://onlineradiobox.com/ch/1fmalternativerockxhitsradio/?cs=ch.1fmalternativerockxhitsradio&played=1
 - https://onlineradiobox.com/us/wdzn/?cs=us.wdzn&played=1
+- https://onlineradiobox.com/fr/nrjlinkinpark/?cs=fr.nrjlinkinpark&played=1
+- https://onlineradiobox.com/fr/nrjrock/?cs=fr.nrjrock&played=1
 - https://onlineradiobox.com/de/rock2000errock/?cs=de.rock2000errock&played=1
 - https://onlineradiobox.com/de/bob2000errock/?cs=de.bob2000errock&played=1
 - https://onlineradiobox.com/de/absolutrock/?cs=de.absolutrock&played=1
