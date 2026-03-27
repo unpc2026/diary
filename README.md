@@ -106,6 +106,7 @@ for not stupid people, here's how it works.
 - https://onlineradiobox.com/ae/sportifyrock/?cs=ae.sportifyrock&played=1
 - https://onlineradiobox.com/de/bobcollegerock/?cs=de.bobcollegerock&played=1
 - https://onlineradiobox.com/ch/1fmalternativerockxhitsradio/?cs=ch.1fmalternativerockxhitsradio&played=1
+- https://onlineradiobox.com/id/niki/?cs=id.niki&played=1
 - https://onlineradiobox.com/us/wdzn/?cs=us.wdzn&played=1
 - https://onlineradiobox.com/fr/nrjlinkinpark/?cs=fr.nrjlinkinpark&played=1
 - https://onlineradiobox.com/fr/nrjrock/?cs=fr.nrjrock&played=1
@@ -128,5 +129,4 @@ for not stupid people, here's how it works.
 - https://onlineradiobox.com/fr/helia100rock/?cs=fr.helia100rock&played=1
 - https://onlineradiobox.com/id/mtvrocks/?cs=id.mtvrocks&played=1
 - https://onlineradiobox.com/id/trans7/?cs=id.trans7&played=1
-- https://onlineradiobox.com/id/niki/?cs=id.niki&played=1
 - https://onlineradiobox.com/id/rockrewind/?cs=id.rockrewind&played=1
