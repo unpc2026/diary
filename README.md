@@ -95,6 +95,7 @@ for not stupid people, here's how it works.
 - https://onlineradiobox.com/de/silver/?cs=de.silver&played=1
 - https://onlineradiobox.com/de/oberberg/?cs=de.oberberg&played=1
 - https://onlineradiobox.com/at/kronehitnumberone/?cs=at.kronehitnumberone&played=1
+- http://p.onlineradiobox.com/id/stuck/player/?cs=id.stuck&played=1
 - https://onlineradiobox.com/uk/likebirmingham/?cs=uk.likebirmingham&played=1
 - https://onlineradiobox.com/uk/heart10s/?cs=uk.heart10s&played=1
 - https://onlineradiobox.com/fr/cheriezen/?cs=fr.cheriezen&played=1
