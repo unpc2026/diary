@@ -87,7 +87,6 @@ for not stupid people, here's how it works.
 - https://onlineradiobox.com/de/bobcollegerock/?cs=de.bobcollegerock&played=1
 - https://onlineradiobox.com/de/bobemo/?cs=de.bobemo&played=1
 - https://onlineradiobox.com/uk/capitalfmuk/?cs=uk.capitalfmuk&played=1
-- https://onlineradiobox.com/id/trax/?cs=id.trax&played=1
 - https://onlineradiobox.com/de/planetcoldplay/?cs=de.planetcoldplay&played=1
 - https://onlineradiobox.com/de/bobska/?cs=de.bobska&played=1
 - https://onlineradiobox.com/ca/punkworld/?cs=ca.punkworld&played=1
