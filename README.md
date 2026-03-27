@@ -89,7 +89,6 @@ for not stupid people, here's how it works.
 - https://onlineradiobox.com/uk/capitalfmuk/?cs=uk.capitalfmuk&played=1
 - https://onlineradiobox.com/us/100hitzhothitz/?cs=us.100hitzhothitz&played=1
 - https://onlineradiobox.com/id/hardrockjakarta/?cs=id.hardrockjakarta&played=1
-- https://onlineradiobox.com/id/z999/?cs=id.z999&played=1
 - https://onlineradiobox.com/id/trax/?cs=id.trax&played=1
 - https://onlineradiobox.com/de/planetcoldplay/?cs=de.planetcoldplay&played=1
 - https://onlineradiobox.com/de/bobska/?cs=de.bobska&played=1
