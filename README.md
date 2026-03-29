@@ -90,11 +90,13 @@ for not stupid people, here's how it works.
 - https://onlineradiobox.com/nl/skyradio/?cs=nl.skyradio&played=1
 - https://onlineradiobox.com/fr/nrjatwork/?cs=fr.nrjatwork&played=1
 - https://onlineradiobox.com/id/juanbatam/?cs=id.juanbatam&played=1
+- https://onlineradiobox.com/de/radio7sommerparty/?cs=de.radio7sommerparty&played=1
 - https://onlineradiobox.com/id/endlessforbeacon100/?cs=id.endlessforbeacon100&played=1
 - https://onlineradiobox.com/id/infinitebeacon/?cs=id.infinitebeacon&played=1
 - https://onlineradiobox.com/de/silver/?cs=de.silver&played=1
 - https://onlineradiobox.com/de/oberberg/?cs=de.oberberg&played=1
 - https://onlineradiobox.com/at/kronehitnumberone/?cs=at.kronehitnumberone&played=1
+- https://onlineradiobox.com/de/radio7top100hiphop/?cs=de.radio7top100hiphop&played=1
 - http://p.onlineradiobox.com/id/stuck/player/?cs=id.stuck&played=1
 - https://onlineradiobox.com/uk/likebirmingham/?cs=uk.likebirmingham&played=1
 - https://onlineradiobox.com/uk/heart10s/?cs=uk.heart10s&played=1
