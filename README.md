@@ -109,6 +109,7 @@ for not stupid people, here's how it works.
 - https://onlineradiobox.com/ch/1fmalternativerockxhitsradio/?cs=ch.1fmalternativerockxhitsradio&played=1
 - https://onlineradiobox.com/id/niki/?cs=id.niki&played=1
 - https://onlineradiobox.com/us/wdzn/?cs=us.wdzn&played=1
+- https://onlineradiobox.com/br/omelhordelinkinpark/?cs=br.omelhordelinkinpark&played=1
 - https://onlineradiobox.com/fr/nrjlinkinpark/?cs=fr.nrjlinkinpark&played=1
 - https://onlineradiobox.com/fr/nrjrock/?cs=fr.nrjrock&played=1
 - https://onlineradiobox.com/de/rock2000errock/?cs=de.rock2000errock&played=1
