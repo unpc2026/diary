@@ -96,11 +96,13 @@ for not stupid people, here's how it works.
 - https://onlineradiobox.com/de/silver/?cs=de.silver&played=1
 - https://onlineradiobox.com/de/oberberg/?cs=de.oberberg&played=1
 - https://onlineradiobox.com/at/kronehitnumberone/?cs=at.kronehitnumberone&played=1
+- https://onlineradiobox.com/de/bigfm2010er/?cs=de.bigfm2010er&played=1
 - https://onlineradiobox.com/de/radio7top100hiphop/?cs=de.radio7top100hiphop&played=1
 - http://p.onlineradiobox.com/id/stuck/player/?cs=id.stuck&played=1
 - https://onlineradiobox.com/uk/likebirmingham/?cs=uk.likebirmingham&played=1
 - https://onlineradiobox.com/uk/heart10s/?cs=uk.heart10s&played=1
 - https://onlineradiobox.com/fr/cheriezen/?cs=fr.cheriezen&played=1
+- https://onlineradiobox.com/de/bigfmusrapandhiphop/?cs=de.bigfmusrapandhiphop&played=1
 - https://onlineradiobox.com/fr/nrjlatinohits/?cs=fr.nrjlatinohits&played=1
 - https://onlineradiobox.com/de/dexiron/?cs=de.dexiron&played=1
 - https://onlineradiobox.com/fr/nrjdavguetta/?cs=fr.nrjdavguetta&played=1
