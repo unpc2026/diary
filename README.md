@@ -1,5 +1,5 @@
 # Unstructured Texts
-__IDGAF__:
+__IDGAF:__
 ```markdown
 * Fearmongering
 * Warmongering
@@ -55,7 +55,7 @@ __IDGAF__:
 * Tone Policing
 ```
 
-IGAF:
+__IGAF:__
 ```markdown
 * Stop stressing. Take a deep breath, relax, let go of all your burdens and pressures, ignore everything, and everything will be fine
 * Always & Only use Logic, Objectivity, Rationality
