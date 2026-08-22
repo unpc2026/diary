@@ -67,14 +67,14 @@ __IGAF:__
 * Don't overshare
 ```
 
-A set of words that can be used to explain something (e.g., what is problem):
+__A set of words that can be used to explain something (e.g., what is problem):__
 ```markdown
 * a situation where
 * a condition where
 * a circumstance where
 ```
 
-masalah verifikasi ketika sedang login akun google:
+___masalah verifikasi ketika sedang login akun google:__
 ```markdown
 jadi, ketika saya mau login akun google atau gmail (di bagian setelah memasukkan password dengan benar), muncul proses verifikasi untuk memastikan ini orang yang sedang melakukan proses login itu benar-benar si pemilik akun atau bukan, melalui cara sebagai berikut.
 
@@ -94,7 +94,7 @@ itu dia masalahnya yang belum saya temukan solusinya itu apa.
 saat ini saya mengakalinya dengan cara minimal di satu device harus sudah terpasang akun google yang sudah terdaftar sebagai akun recovery di akun utama. Dengan begitu, ketika sedang login google atau gmail di akun utama dan ternyata muncul proses verifikasi, saya langsung pilih no 3 saja.
 ```
 
-There's 2 kind of people related to how DEI works, Stupid People & Not Stupid People (not always smart):
+__There's 2 kind of people related to how DEI works, Stupid People & Not Stupid People (not always smart):__
 ```markdown
 for not stupid people, here's how it works.
 1. They depend on a Problem that they created themselves & They begin to fearmongering people with the buzzwords like nazi, racist, etc
@@ -102,13 +102,13 @@ for not stupid people, here's how it works.
 3. In order to keep the needs for the job, back to 1
 ```
 
-Alasan-alasan organisasi/individual yang mau/tidak mau mengakui & minta maaf dari perbuatan yang salah terus viral dan tidak bisa didebat lagi:
+__Alasan-alasan organisasi/individual yang mau/tidak mau mengakui & minta maaf dari perbuatan yang salah terus viral dan tidak bisa didebat lagi:__
 ```markdown
 1. ada yang harus dijaga, seperti karir, reputasi, lawsuit, uang, dan lain-lain
 2. Kalau tidak ada yang harus dijaga artinya yang ada malah di double down, contohnya adalah ketika banyak yang selebrasi ketika terjadi assassination charlie kirk, bukannya menyesali malah playing victim
 ```
 
-this are the few reason from gimmick (ex. open debate/insult/labeling) that hasan done for other people or themselves:
+__this are the few reason from gimmick (ex. open debate/insult/labeling) that hasan done for other people or themselves:__
 ```markdown
 * Maintain the current audience
 * reach the new audience that has the same thinking but don't watch hasan yet
