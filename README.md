@@ -74,7 +74,7 @@ __A set of words that can be used to explain something (e.g., what is problem):_
 * a circumstance where
 ```
 
-___masalah verifikasi ketika sedang login akun google:__
+__masalah verifikasi ketika sedang login akun google:__
 ```markdown
 jadi, ketika saya mau login akun google atau gmail (di bagian setelah memasukkan password dengan benar), muncul proses verifikasi untuk memastikan ini orang yang sedang melakukan proses login itu benar-benar si pemilik akun atau bukan, melalui cara sebagai berikut.
 
