@@ -1,5 +1,5 @@
 # Unstructured Texts
-__IDGAF:__
+__IDGAF__:
 ```markdown
 * Fearmongering
 * Warmongering
