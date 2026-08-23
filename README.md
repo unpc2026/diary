@@ -1,4 +1,4 @@
-# Unstructured Texts
+# *Unstructured Texts*
 __IDGAF:__
 ```markdown
 * Fearmongering
@@ -115,7 +115,7 @@ __this are the few reason from gimmick (ex. open debate/insult/labeling) that ha
 * call they "nazi", "racist", "fascist" to maintain the hatred & justify the violence against them
 ```
 
-# Online Radio
+# *Online Radio*
 * https://onlineradiobox.com/us/worldhits/?cs=us.worldhits&played=1
 * https://onlineradiobox.com/id/ninetysixsmoothsong/?cs=id.ninetysixsmoothsong&played=1
 * https://onlineradiobox.com/id/abesjamztoears/?cs=id.abesjamztoears&played=1
