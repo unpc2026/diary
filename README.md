@@ -115,7 +115,7 @@ __this are the few reason from gimmick (ex. open debate/insult/labeling) that ha
 * call they "nazi", "racist", "fascist" to maintain the hatred & justify the violence against them
 ```
 
-__List Downloads [MKIceAndFire](https://www.youtube.com/@MKIceAndFire) Youtube Video:__
+__List Downloads [MKIceAndFire](https://www.youtube.com/@MKIceAndFire/videos) Youtube Video:__
 ```markdown
 * https://www.youtube.com/watch?v=aV3yOcF7kwA (MKIceAndFire ~ ASSASSIN'S CREED Gameplay Walkthrough FULL GAME [4K 60FPS PC ULTRA] - No Commentary)
 * https://www.youtube.com/watch?v=n6z7hTRkAF8 (MKIceAndFire ~ ASSASSIN'S CREED 2 Gameplay Walkthrough FULL GAME [4K 60FPS PC ULTRA] - No Commentary)
